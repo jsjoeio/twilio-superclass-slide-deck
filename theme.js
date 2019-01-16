@@ -5,7 +5,7 @@ export default {
   colors: {
     ...theme.colors,
     text: '#f7f6fa',
-    background: '#6C5FC7'
+    background: '#0d152a'
   }
   // Read the docs for more info:
   // https://github.com/jxnblk/mdx-deck/blob/master/docs/theming.md

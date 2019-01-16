@@ -2,7 +2,8 @@ import styled from 'styled-components'
 
 export default styled.a`
   display: block;
-  background-color: #57BE8C;
+  background: rgb(255,155,82);
+  background: radial-gradient(circle, rgba(255,155,82,1) 0%, rgba(217,71,64,1) 100%);
   width: 300px;
   color: #f7f6fa;
   border-radius: 14px;
